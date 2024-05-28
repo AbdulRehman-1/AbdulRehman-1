@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Senior Software Engineer
 
 [![](https://visitcount.itsvg.in/api?id=AbdulRehman-1&icon=0&color=12)](https://visitcount.itsvg.in)
 
